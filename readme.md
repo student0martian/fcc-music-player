@@ -25,3 +25,7 @@ The `controls` attribute provides playback controls including pause/resume playb
 The `controls` attribute is a boolean attribute and does not need a value.  
 Add the `controls` attribute to the `audio` element.  
 Now you should see the `audio` element displayed on the page.  
+
+### Step 7  
+Add a new `h2` element below the `audio` element with the text `Cruising for a Musing`.
+Below the `h2`, add a `p` element with the text `Artist: Quincy Larson`.  
