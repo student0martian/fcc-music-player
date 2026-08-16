@@ -1,6 +1,6 @@
 # Build an HTML Music Player
 
-Exercises are based on the [freeCodeCamp.org](http s://freecodecamp.org) curriculum. All solutions are my own work.  
+Exercises are based on the [freeCodeCamp.org](https://freecodecamp.org) curriculum. All solutions are my own work.  
 
 ### Step 1  
 In this workshop, you will build an HTML music player. The HTML boilerplate has been provided for you.  
