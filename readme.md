@@ -39,6 +39,8 @@ Below the `p` element, add an `audio` element, give it an `src` attribute with a
 The last song is titled `Scratching the Surface`, the artist is Quincy Larson, and the file to use is `https://cdn.freecodecamp.org/curriculum/js-music-player/scratching-the-surface.mp3`.  
 Add the last song to complete the music player following the same pattern you used for the first two songs.  
   
+[**Click the link to see my work https://student0martian.github.io/fcc-music-player/**](https://student0martian.github.io/fcc-music-player/)  
   
+    
   
 [*Check out this book I'm reading*](https://www.freecodecamp.org/news/learn-to-code-book/)  
